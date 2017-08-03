@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+#ihaf-wrap .wrap {float: left; width: 100%;}
+.ihaf-labels {display: block; margin:20px 0 10px 0;}
+.footerlabel {display : none;margin-top: 25px;}
+.ihaf-wrap { margin: 40px 0 0 40px; float: left; width: 70%;}
+/*text area footer*/
+#ihaf-form{ float : left;}
+#ihaf_insert_footer {display : none;}
+#ihaf-register {text-decoration:none;color : black; border : 1px solid grey; box-shadow : 2px 2px 2px black;padding : 5px;background-color : gai$
+#ihaf-legend {color : gray; font-size : 18px; font-weight ; bold;}
+#ihaf-fieldset {border : 1px solid; cursor : context-menu;color : #3E86AA; text-decoration : none; width : 400px; font-weight : 800; font-size :$
+/* Sidebar */
+.ihaf-sidebar {display : none;loat: left; width: 30%; min-width: 200px;}
+.ihaf-sidebar h2 { color: #00000; font-size: 24px;}
+.ihaf-improve-site p { color: #fffff; font-size: 16px;}
+.ihaf-improve-site {background: #CFC; padding: 10px 15px; border: 1px solid green; }
+.ihaf-improve-site a {text-decoration: none; background: #21759B; color: #EAF2FA; padding: 4px 10px; line-height: 15px; border-radius: 10px; fon$
+.ihaf-improve-site a:hover {color: #EAF2FA;}
